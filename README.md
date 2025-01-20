@@ -30,4 +30,5 @@ A Flutter-based quiz application that fetches quiz questions from an API and pre
    cd quiz_app
 
   ##Screenshots:
-  
+  ![image alt](https://github.com/manasa780/Quiz_App_Flutter/blob/f7792ea7b286b2f6557375efe476c55c74fcd350/Screenshot%202025-01-20%201903412.png)
+  ![image alt]()
